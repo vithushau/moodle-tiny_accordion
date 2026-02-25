@@ -25,4 +25,4 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'tiny_accordion';
+$string['pluginname'] = 'Accordion';
