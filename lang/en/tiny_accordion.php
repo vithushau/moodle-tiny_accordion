@@ -26,3 +26,4 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Accordion';
+$string['privacy:metadata'] = 'The tiny_accordion plugin does not store any personal data.';
